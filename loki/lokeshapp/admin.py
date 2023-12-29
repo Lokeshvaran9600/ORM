@@ -1,3 +1,3 @@
 from django.contrib import admin
-
-# Register your models here.
+from.models import foodball_player,foodball_playerAdmin
+admin.site.register(foodball_player,foodball_playerAdmin)
