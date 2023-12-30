@@ -43,7 +43,7 @@ class foodball_playerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<Screenshot (172).png>)
+![Alt text](<ormapp/WhatsApp Image 2023-12-30 at 07.06.52_22e0041d.jpg>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
